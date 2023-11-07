@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/tbMGSD5/Sajek.png",
+      "title": "Cox's Bazar",
+      "description": "Cox's Bazar is a breathtaking destination with the longest natural sea beach in the world. Enjoy the sun, sea, and sand in this coastal paradise."
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/z2qnd7r/Sreemongol.png",
+      "title": "Sreemangal",
+      "description": "Sreemangal is known as the 'Land of Two Leaves and a Bud' due to its lush tea gardens. Immerse yourself in the serene beauty of this tea haven."
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/Tb4B2qx/sundorbon.png",
+      "title": "Sundarban",
+      "description": "Sundarban is a UNESCO World Heritage Site and the largest mangrove forest in the world. Explore its unique wildlife and natural wonders."
+    }
+  ]
+  
